@@ -1,0 +1,12 @@
+*.class
+/target
+.svn
+# Package Files #
+*.jar
+*.war
+*.ear
+*.DS_Store
+*.iml
+.settings
+.project
+rebel.xml
