@@ -18,7 +18,7 @@ public class NettyTest {
 
     }
 
-//    @Test
+    @Test
     public void testServer() {
 
         BaseServer baseNioServer = new DefaultServer();
@@ -28,7 +28,7 @@ public class NettyTest {
 
     }
 
-//    @Test
+    @Test
     public void testClient() {
 
         ExContext ex = new ExContext();
